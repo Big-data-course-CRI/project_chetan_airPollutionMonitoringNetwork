@@ -10,3 +10,6 @@ Meteorological conditions largely contribute to the high concentrations of PM2.5
 To apply network analysis to study datasets containing PM2.5 emissions from different sectors
 
 [1] https://www.who.int/health-topics/air-pollution#tab=tab_1
+
+## Dataset
+The dataset is downloaded from https://data.gov.in/catalog/historical-daily-ambient-air-quality-data
